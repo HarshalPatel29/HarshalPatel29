@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- ⚡Reach me in Linkedin **https://www.linkedin.com/in/Yashraj9673**
+- ⚡Reach me in Linkedin **https://www.linkedin.com/in/harshal-patel-352877243/**
 
-- ⚡Reach me in Hacker Rank **https://www.hackerrank.com/yashrajchaudhar3**
+- ⚡Reach me in Hacker Rank **https://www.hackerrank.com/patelharsh0022?hr_r=1**
 
-- 📫 How to reach me **yashrajchaudhari48924@gmail.com**
+- 📫 How to reach me **patelharsh0022@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play cricket and go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
@@ -35,7 +35,7 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-  <a href="https://github.com/Yashraj9673/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj9673&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Yashraj9673/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalPatel29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
